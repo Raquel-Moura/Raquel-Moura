@@ -1,6 +1,6 @@
 
   
-![Profile views](https://gpvc.arturio.dev/Raquel-Moura)
+<!--![Profile views](https://gpvc.arturio.dev/Raquel-Moura)-->
 
 <div align="center" >
  <img src="https://github.com/Raquel-Moura/Raquel-Moura/assets/111471780/5f85ba62-a174-4e9f-b817-dbd09d0f8166.png" width="550px">
